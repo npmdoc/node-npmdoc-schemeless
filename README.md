@@ -1,4 +1,7 @@
-# api documentation for  [schemeless (v1.2.0)](https://github.com/zeke/schemeless)  [![npm package](https://img.shields.io/npm/v/npmdoc-schemeless.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-schemeless) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-schemeless.svg)](https://travis-ci.org/npmdoc/node-npmdoc-schemeless)
+# npmdoc-schemeless
+
+#### api documentation for  [schemeless (v1.2.0)](https://github.com/zeke/schemeless)  [![npm package](https://img.shields.io/npm/v/npmdoc-schemeless.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-schemeless) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-schemeless.svg)](https://travis-ci.org/npmdoc/node-npmdoc-schemeless)
+
 #### Remove the parts of URLs that humans don't really need to see
 
 [![NPM](https://nodei.co/npm/schemeless.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/schemeless)
